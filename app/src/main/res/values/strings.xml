@@ -1,0 +1,36 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyDpsg8eICTZA_lNopbBbJ7xeI-sD2KBY6U</string>
+    <string name="app_name">My Project UAS</string>
+    <string-array name="agama">
+        <item>ISLAM</item>
+        <item>KRISTEN</item>
+        <item>HINDU</item>
+    </string-array>
+    <string-array name="menus">
+        <item>Home</item>
+        <item>Page 1</item>
+        <item>Page 2</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="jurusan">
+        <item>Informatika</item>
+        <item>Sipil</item>
+        <item>Arsitektur</item>
+        <item>Mesin</item>
+        <item>Industri</item>
+        <item>Elektro</item>
+    </string-array>
+    <string-array name="fakultas">
+        <item>Teknik</item>
+        <item>Hukum</item>
+        <item>Psikologi</item>
+        <item>Sastra</item>
+        <item>Ekonomi</item>
+        <item>Fisip</item>
+    </string-array>
+    <string name="title_activity_coba">Coba</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
